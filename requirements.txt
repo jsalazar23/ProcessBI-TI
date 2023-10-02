@@ -1,3 +1,4 @@
+--upgrade pip
 pandas
 gunicorn
 absl-py==1.4.0
