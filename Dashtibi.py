@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-pip install dash
+/opt/render/project/src/.venv/bin/python -m pip install --upgrade pip
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
