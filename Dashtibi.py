@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 /opt/render/project/src/.venv/bin/python -m pip install --upgrade pip
 /opt/render/project/src/.venv/bin/python -m pip install -r requirements.txt
+/opt/render/project/src/.venv/bin/python -m pip install --upgrade pip
+/opt/render/project/src/.venv/bin/python -m pip install -r requirements.txt
+/opt/render/project/src/.venv/bin/python -m pip install --upgrade pip
 
 import dash
 import dash_core_components as dcc
